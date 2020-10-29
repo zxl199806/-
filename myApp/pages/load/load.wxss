@@ -1,0 +1,32 @@
+/* pages/load/load.wxss */
+.just{
+  width: 80%;
+  height: 300rpx;
+  margin-top: 350rpx;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.btn{
+  width: 70%;
+  height: 80rpx;
+  background-color: #04be01;
+  border-radius: 8rpx;
+  color: white;
+  font-weight: 300;
+  align-content: center;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.hx{
+  font-size: 40rpx;
+  color: #8a8a8a;
+  text-align: center;
+  margin-top: 50rpx;
+}
+.txt{
+  width: 85%;
+  height: 35rpx;
+  color: #8a8a8a;
+  font-weight: 100;
+  margin: auto;  
+}

@@ -1,0 +1,73 @@
+/* pages/login/login.wxss */
+page{
+  left: 0rpx;
+  right:0rpx;
+  background-color: white;
+}
+.first{
+  width: 96%;
+  height: 80rpx;
+  background-color:#F2F2F2;
+  margin-top: 60rpx;
+  margin-left: 2%;
+  margin-right: 2%;
+  display: flex;
+  border-radius: 8px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.plas{
+  font-size: 30rpx;
+  color: #cccccc;
+}
+.inputs{
+  line-height: 100rpx;
+  font-size: 30rpx;
+  color: #000;
+  margin: auto;
+  width: 100%;
+  margin-left: 10rpx;
+}
+.second{
+  width: 96%;
+  height: 80rpx;
+  background-color:#F2F2F2;
+  margin-top: 20rpx;
+  margin-left: 2%;
+  margin-right: 2%;
+  display: flex;
+  border-radius: 8px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.click{
+  width: 96%;
+  height: 80rpx;
+  margin-top: 60rpx;
+  margin-left: 2%;
+  margin-right: 2%;
+  background-color: #f76968;
+  text-align: center;
+  line-height: 80rpx;
+  border-radius: 8rpx;
+  color: white;
+  font-size: 33rpx;
+}
+.cha{
+  margin-top: 20rpx;
+  width: 96%;
+  height: 60rpx;
+  line-height: 60rpx;
+  margin-left: 2%;
+  margin-right: 2%;
+  
+}
+.no{
+  font-size: 24rpx;
+  line-height: 60rpx;
+  margin-left: 15rpx;
+  font-family: PingFanSC-regular; 
+  color: black;
+}
